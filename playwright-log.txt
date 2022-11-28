@@ -1,0 +1,221 @@
+{"level":30,"time":"2022-11-28T04:27:14.368Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Listening on 54689"}
+{"level":30,"time":"2022-11-28T04:27:14.579Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-11-28T04:27:14.579Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"currentBrowser: undefined"}
+{"level":30,"time":"2022-11-28T04:27:14.795Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Changed active context"}
+{"level":30,"time":"2022-11-28T04:27:14.858Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Video path: undefined"}
+{"level":30,"time":"2022-11-28T04:27:14.858Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Changed active page"}
+{"level":30,"time":"2022-11-28T04:27:22.579Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method newPage"}
+{"level":30,"time":"2022-11-28T04:27:22.979Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:22.979Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with text=OK in page."}
+{"level":30,"time":"2022-11-28T04:27:23.037Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:23.039Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:23.039Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#head in page."}
+{"level":30,"time":"2022-11-28T04:27:23.075Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Option entries: 7"}
+{"level":30,"time":"2022-11-28T04:27:23.075Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-11-28T04:27:23.076Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:23.078Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:23.078Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#id-body-2 in page."}
+{"level":30,"time":"2022-11-28T04:27:23.102Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:23.104Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:23.105Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=.form-group:nth-child(3) > input in page."}
+{"level":30,"time":"2022-11-28T04:27:23.152Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:23.155Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:23.155Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#address in page."}
+{"level":30,"time":"2022-11-28T04:27:23.208Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:23.210Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:23.210Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#preview in page."}
+{"level":30,"time":"2022-11-28T04:27:23.251Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:23.253Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:23.253Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:27:23.297Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:23.299Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:23.299Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":50,"time":"2022-11-28T04:27:33.308Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6895:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6857:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:8000:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================"}
+{"level":30,"time":"2022-11-28T04:27:33.308Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=#receipt"
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6895:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6857:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:8000:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-11-28T04:27:33.311Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.311Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:27:33.350Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.351Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:33.352Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":30,"time":"2022-11-28T04:27:33.358Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Retrieved dom property for element css=#receipt containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-11-28T04:27:33.343Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-MLIV2DAYE</p><p>Address 123</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-11-28T04:27:33.359Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:33.554Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-11-28T04:27:33.554Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#robot-preview-image in page."}
+{"level":30,"time":"2022-11-28T04:27:33.640Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-11-28T04:27:33.732Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.732Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order-another in page."}
+{"level":30,"time":"2022-11-28T04:27:33.811Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.812Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.812Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with text=OK in page."}
+{"level":30,"time":"2022-11-28T04:27:33.861Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.863Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:33.863Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#head in page."}
+{"level":30,"time":"2022-11-28T04:27:33.879Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Option entries: 7"}
+{"level":30,"time":"2022-11-28T04:27:33.880Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-11-28T04:27:33.880Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:33.881Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.881Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#id-body-1 in page."}
+{"level":30,"time":"2022-11-28T04:27:33.912Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.913Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:33.913Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=.form-group:nth-child(3) > input in page."}
+{"level":30,"time":"2022-11-28T04:27:33.925Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:33.927Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:33.927Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#address in page."}
+{"level":30,"time":"2022-11-28T04:27:33.949Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:33.950Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.950Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#preview in page."}
+{"level":30,"time":"2022-11-28T04:27:33.981Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.982Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:33.982Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:27:34.014Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.015Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:34.015Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":30,"time":"2022-11-28T04:27:34.020Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Retrieved dom property for element css=#receipt containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-11-28T04:27:34.011Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-SLEFSWMAJC</p><p>Address 456</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-11-28T04:27:34.020Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:34.170Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-11-28T04:27:34.171Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#robot-preview-image in page."}
+{"level":30,"time":"2022-11-28T04:27:34.253Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-11-28T04:27:34.285Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.285Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order-another in page."}
+{"level":30,"time":"2022-11-28T04:27:34.384Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.386Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.386Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with text=OK in page."}
+{"level":30,"time":"2022-11-28T04:27:34.428Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.429Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:34.429Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#head in page."}
+{"level":30,"time":"2022-11-28T04:27:34.445Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Option entries: 7"}
+{"level":30,"time":"2022-11-28T04:27:34.445Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-11-28T04:27:34.446Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:34.447Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.447Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#id-body-2 in page."}
+{"level":30,"time":"2022-11-28T04:27:34.477Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.478Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:34.478Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=.form-group:nth-child(3) > input in page."}
+{"level":30,"time":"2022-11-28T04:27:34.490Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:34.491Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:34.491Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#address in page."}
+{"level":30,"time":"2022-11-28T04:27:34.512Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:34.513Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.513Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#preview in page."}
+{"level":30,"time":"2022-11-28T04:27:34.550Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.551Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.552Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:27:34.596Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.598Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:34.598Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":30,"time":"2022-11-28T04:27:34.602Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Retrieved dom property for element css=#receipt containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2022-11-28T04:27:34.594Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-9JWQ3U5DCF</p><p>Address 789</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2022-11-28T04:27:34.602Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:34.756Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-11-28T04:27:34.757Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#robot-preview-image in page."}
+{"level":30,"time":"2022-11-28T04:27:34.840Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-11-28T04:27:34.880Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.880Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order-another in page."}
+{"level":30,"time":"2022-11-28T04:27:34.968Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.971Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:34.971Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with text=OK in page."}
+{"level":30,"time":"2022-11-28T04:27:35.011Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:35.012Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:35.012Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#head in page."}
+{"level":30,"time":"2022-11-28T04:27:35.033Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Option entries: 7"}
+{"level":30,"time":"2022-11-28T04:27:35.033Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Selected entries: 1"}
+{"level":30,"time":"2022-11-28T04:27:35.033Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-11-28T04:27:35.035Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:35.035Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#id-body-3 in page."}
+{"level":30,"time":"2022-11-28T04:27:35.064Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:35.066Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:35.066Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=.form-group:nth-child(3) > input in page."}
+{"level":30,"time":"2022-11-28T04:27:35.084Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:35.086Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:35.086Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#address in page."}
+{"level":30,"time":"2022-11-28T04:27:35.114Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method typeText"}
+{"level":30,"time":"2022-11-28T04:27:35.116Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:35.116Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#preview in page."}
+{"level":30,"time":"2022-11-28T04:27:35.166Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:35.167Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:35.167Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:27:35.214Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:35.215Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:35.215Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":50,"time":"2022-11-28T04:27:45.230Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6895:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6857:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:8000:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================"}
+{"level":30,"time":"2022-11-28T04:27:45.230Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=#receipt"
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6895:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6857:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:8000:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-11-28T04:27:45.232Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:45.232Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:27:45.261Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:45.262Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:45.262Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":50,"time":"2022-11-28T04:27:55.263Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6895:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6857:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:8000:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================"}
+{"level":30,"time":"2022-11-28T04:27:55.263Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=#receipt"
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6895:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6857:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:8000:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-11-28T04:27:55.265Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:27:55.265Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:27:55.293Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:27:55.294Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:27:55.294Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":50,"time":"2022-11-28T04:28:05.309Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6895:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6857:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:8000:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================"}
+{"level":30,"time":"2022-11-28T04:28:05.310Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=#receipt"
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6895:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6857:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:8000:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-11-28T04:28:05.311Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:28:05.311Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:28:05.342Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:28:05.343Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:28:05.343Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
+{"level":50,"time":"2022-11-28T04:28:15.358Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6895:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:6857:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\d36e02e_b1f3c24_691db988\\lib\\site-packages\\Browser\\wrapper\\index.js:8000:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"css=#receipt\"\n============================================================"}
+{"level":30,"time":"2022-11-28T04:28:15.358Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=#receipt"
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6895:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:6857:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\d36e02e_b1f3c24_691db988\lib\site-packages\Browser\wrapper\index.js:8000:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-11-28T04:28:15.360Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method click"}
+{"level":30,"time":"2022-11-28T04:28:15.360Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#order in page."}
+{"level":30,"time":"2022-11-28T04:28:15.393Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"End of node method click"}
+{"level":30,"time":"2022-11-28T04:28:15.394Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-11-28T04:28:15.394Z","pid":24508,"hostname":"DESKTOP-FVVSA1Q","msg":"Strict mode is enabled, find Locator with css=#receipt in page."}
